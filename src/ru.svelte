@@ -334,7 +334,7 @@
         >
       </p>
       <p>
-        <span class="black">Ольга Сливко — </span><span class="blue"
+        <span class="black">Ольга Вестер — </span><span class="blue"
           >казначей</span
         >
       </p>

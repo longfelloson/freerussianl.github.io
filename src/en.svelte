@@ -344,7 +344,7 @@
         >
       </p>
       <p>
-        <span class="black">Olga Slivko — </span><span class="blue"
+        <span class="black">Olga Wester — </span><span class="blue"
           >treasurer</span
         >
       </p>
