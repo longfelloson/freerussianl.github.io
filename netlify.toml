@@ -1,5 +1,2 @@
 [build]
   node_version = "18"
-
-[[plugins]]
-  package = "@netlify/plugin-lighthouse"
